@@ -14,8 +14,8 @@ All components are implemented in Antimony format and simulated using Tellurium.
 
 ## Files
 
-- `repressilator_simulation.py`: Simulation script
-- `Repressilator Oscillator.png`: Output plot showing time-course oscillations
+- `repressilator_oscillator.ipynb`: Simulation script
+- `Repressilator_Oscillator.png`: Output plot showing time-course oscillations
 
 ## Dependencies
 

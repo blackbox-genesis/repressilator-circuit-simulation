@@ -45,7 +45,6 @@ python repressilator_simulation.py
 This will:
 - Simulate the circuit over 500 time units
 - Plot the protein concentrations
-- Save the plot as a high-resolution PNG
 
 ## Author
 

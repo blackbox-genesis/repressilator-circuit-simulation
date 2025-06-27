@@ -39,7 +39,7 @@ Oscillations arise due to delayed negative feedback between the three repressors
 Run the script:
 
 ```
-python repressilator_simulation.py
+python repressilator_oscillator.ipynb
 ```
 
 This will:

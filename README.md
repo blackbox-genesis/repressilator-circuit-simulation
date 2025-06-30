@@ -50,3 +50,5 @@ This will:
 
 Aditya Raj (Kuro)  
 GitHub: https://github.com/blackbox-genesis
+
+> This project is part of a personal initiative to build mini synthetic biology models before formal coursework begins.
